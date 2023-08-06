@@ -1,3 +1,5 @@
+import WordDay from '../pic/word_of_day.png';
+
 const Portfolio_data = [
   {
     id: 1,
@@ -8,20 +10,23 @@ const Portfolio_data = [
   {
     id: 2,
     category: 'APPLICATION',
-    title: 'Mobile app landing design & maintain',
-    image: './image/portfolio-02.jpg',
+    title: 'Word of the day',
+    image: WordDay,
+    description:
+      'Tarf is a simple application made in flutter, with the theme of being an app to show the word of the day and its meaning.',
+    github: 'https://github.com/bujosa/tarf',
   },
   {
     id: 3,
     category: 'PHOTOSHOP',
     title: 'Logo design creativity & Application ',
-    image: './image/portfolio-03.jpg',
+    image: './src/component/pic/word_day.png',
   },
   {
     id: 4,
     category: 'FIGMA',
     title: 'Mobile app landing design & Services',
-    image: './image/portfolio-04.jpg',
+    image: '../pic/word_day.png',
   },
   {
     id: 5,
