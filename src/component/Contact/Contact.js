@@ -36,9 +36,8 @@ const Contact = () => {
           <div className="content d_flex">
             <div className="left">
               <div className="box box_shodow">
-                <div className="img">
-                  <img src={contact1} alt="" />
-                </div>
+                <img src={contact1} alt="" />
+
                 <div className="details">
                   <h1>David Bujosa</h1>
                   <p>Chief Operating Officer</p>
@@ -110,7 +109,7 @@ const Contact = () => {
                   <span>YOUR MESSAGE </span>
                   <textarea
                     cols="30"
-                    rows="10"
+                    rows="8"
                     name="message"
                     value={data.message}
                     onChange={InputEvent}></textarea>
