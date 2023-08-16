@@ -1,39 +1,51 @@
 const data = [
   {
     id: 1,
-    image: "https://img.icons8.com/ios/64/000000/menu.png",
-    title: "Business Stratagy",
-    desc: "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+    image: 'https://img.icons8.com/?size=64&id=34118&format=png',
+    title: 'Strategic Development Architect',
+    desc: 'Strategically driving feature development by aligning business goals with cutting-edge solutions, ensuring optimal growth and innovation.',
   },
   {
     id: 2,
-    image: "https://img.icons8.com/ios/40/000000/open-book.png",
-    title: "App Development",
-    desc: " It uses a dictionary of over 200 Latin words, combined witha handful of model sentence.",
+    image: 'https://img.icons8.com/?size=64&id=33572&format=png',
+    title: 'API Architect',
+    desc: 'As an API Architect, I am responsible for designing and implementing scalable and secure APIs that meet the needs of the organization and its customers. I work closely with development teams, stakeholders, and other architects to ensure that APIs are consistent with the overall architecture and strategy of the organization. I also stay up-to-date with the latest trends and best practices in API design and development to ensure that our APIs are cutting-edge and effective.',
   },
   {
     id: 3,
-    image: "https://img.icons8.com/fluency-systems-regular/64/000000/retro-tv.png ",
-    title: "App Development",
-    desc: "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+    image: 'https://img.icons8.com/?size=64&id=115048&format=png',
+    title: 'DevOps & GCP Expertise',
+    desc: 'Leveraging deep DevOps knowledge to optimize workflows and enhance cloud-based solutions on Google Cloud Platform.',
   },
   {
     id: 4,
-    image: "https://img.icons8.com/material-outlined/64/000000/topic--v1.png ",
-    title: "Mobile App",
-    desc: "There are many variations of passages of Lorem Ipsum	available, but the majority.",
+    image: 'https://img.icons8.com/?size=64&id=87070&format=png',
+    title: 'Database Analyst & Designer',
+    desc: 'Specializing in crafting robust database solutions through meticulous analysis and innovative design strategies.',
   },
   {
     id: 5,
-    image: "https://img.icons8.com/ios-filled/64/000000/wifi.png ",
-    title: "CEO Marketing",
-    desc: "always free from repetition, injected humour, or non-characteristic words etc.",
+    image: 'https://img.icons8.com/plasticine/64/000000/code-file.png',
+    title: 'Scripting & Automation Wizard',
+    desc: 'Mastery in creating powerful scripts for seamless automation, elevating efficiency and effectiveness.',
   },
   {
     id: 6,
-    image: "https://img.icons8.com/glyph-neue/50/000000/polyline.png ",
-    title: "Personal Portfolio April",
-    desc: " It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+    image: 'https://img.icons8.com/?size=64&id=85881&format=png',
+    title: 'Mobile App Development',
+    desc: 'Creating innovative and user-friendly mobile apps to enhance user experiences.',
   },
-]
-export default data
+  {
+    id: 7,
+    image: 'https://img.icons8.com/color/64/000000/blockchain.png',
+    title: 'Web3 Proficient',
+    desc: 'Proficiency in harnessing the potential of Web3 technology, contributing to the evolution of decentralized applications.',
+  },
+  {
+    id: 8,
+    image: 'https://img.icons8.com/?size=64&id=86512&format=png ',
+    title: 'Web Development',
+    desc: 'I have strong technical skills in web design and development',
+  },
+];
+export default data;
