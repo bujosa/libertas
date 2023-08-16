@@ -19,6 +19,7 @@ const Portfolio = () => {
                 <Card
                   key={index}
                   image={value.image}
+                  icon={value.icon}
                   category={value.category}
                   title={value.title}
                   description={value.description}
