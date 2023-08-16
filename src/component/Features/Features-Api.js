@@ -25,7 +25,7 @@ const data = [
   },
   {
     id: 5,
-    image: 'https://img.icons8.com/plasticine/64/000000/code-file.png',
+    image: 'https://img.icons8.com/?size=64&id=18994&format=png',
     title: 'Scripting & Automation Wizard',
     desc: 'Mastery in creating powerful scripts for seamless automation, elevating efficiency and effectiveness.',
   },
@@ -37,13 +37,13 @@ const data = [
   },
   {
     id: 7,
-    image: 'https://img.icons8.com/color/64/000000/blockchain.png',
+    image: 'https://img.icons8.com/?size=64&id=63455&format=png',
     title: 'Web3 Proficient',
     desc: 'Proficiency in harnessing the potential of Web3 technology, contributing to the evolution of decentralized applications.',
   },
   {
     id: 8,
-    image: 'https://img.icons8.com/?size=64&id=86512&format=png ',
+    image: 'https://img.icons8.com/?size=64&id=86512&format=png',
     title: 'Web Development',
     desc: 'I have strong technical skills in web design and development',
   },
