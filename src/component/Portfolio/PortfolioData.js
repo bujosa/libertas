@@ -26,7 +26,7 @@ const Portfolio_data = [
   {
     id: 2,
     category: 'ARCHITECTURE',
-    title: 'Event Driven Architecture',
+    title: 'ParkA - Microservices',
     description: `ParkA Architecture is based on microservices using distributed systems and event-driven architecture (version 2020).
        I also build another event driven architecture using pubsub and cloud functions for the backend of Curbo (version 2023) but I can't show it because it is private.`,
     image: ParkAArchitecture,
