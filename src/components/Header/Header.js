@@ -1,6 +1,8 @@
 import React from 'react';
 import './Header.css';
 import data from '../../assets/resume.pdf';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faDownload } from '@fortawesome/free-solid-svg-icons';
 
 const Header = () => {
   window.addEventListener('scroll', function () {
@@ -32,7 +34,7 @@ const Header = () => {
               </li>
               <li>
                 <a href={data} download>
-                  Download CV
+                  <FontAwesomeIcon icon={faDownload} /> CV
                 </a>
               </li>
             </ul>
