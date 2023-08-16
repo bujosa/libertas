@@ -1,6 +1,6 @@
 import React from 'react';
 import './Features.css';
-import data from './Features-Api';
+import data from './FeaturesData';
 import Card from './Card';
 
 const Features = () => {
