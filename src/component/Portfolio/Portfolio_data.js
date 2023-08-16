@@ -17,7 +17,7 @@ const Portfolio_data = [
     category: 'DEVELOPMENT',
     title: 'Curbo',
     description:
-      'Curbo is a web and mobile application that allows users to buy and selling cars',
+      'Curbo is a web and mobile application that allows users to buying and selling cars',
     icon: Curbo,
     image: CurboWeb,
     ref: 'https://curbo.com',
