@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/libertas/static/css/main.c1079e4f.css",
+    "main.js": "/libertas/static/js/main.a1296cd9.js",
+    "static/media/fa-solid-900.ttf": "/libertas/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/libertas/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/resume.pdf": "/libertas/static/media/resume.c28646d9c4839c9ddb55.pdf",
+    "static/media/hero.png": "/libertas/static/media/hero.f72761ae22ba65b48bcf.png",
+    "static/media/fa-solid-900.woff2": "/libertas/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/libertas/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/contact.png": "/libertas/static/media/contact.8ddfbfd11798f881db54.png",
+    "static/media/fa-regular-400.ttf": "/libertas/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/skill1.png": "/libertas/static/media/skill1.de54a79df6321583eea8.png",
+    "static/media/fa-regular-400.woff2": "/libertas/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/skill2.png": "/libertas/static/media/skill2.dc5f85030779d0ca7c8c.png",
+    "static/media/fa-v4compatibility.ttf": "/libertas/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/libertas/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/libertas/index.html",
+    "main.c1079e4f.css.map": "/libertas/static/css/main.c1079e4f.css.map",
+    "main.a1296cd9.js.map": "/libertas/static/js/main.a1296cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1079e4f.css",
+    "static/js/main.a1296cd9.js"
+  ]
+}
