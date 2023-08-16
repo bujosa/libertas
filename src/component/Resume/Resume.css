@@ -45,7 +45,7 @@
   position: relative;
 }
 .Resume .left::after {
-  content: "";
+  content: '';
   position: absolute;
   top: 16%;
   left: 0;
@@ -55,7 +55,7 @@
   z-index: -2;
 }
 .Resume .box::after {
-  content: "";
+  content: '';
   position: absolute;
   top: 13%;
   left: -8%;
@@ -64,7 +64,7 @@
   background: #d9dee2;
 }
 .Resume .box::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 11%;
   left: -10%;

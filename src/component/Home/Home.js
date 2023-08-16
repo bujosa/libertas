@@ -32,9 +32,10 @@ const Home = () => {
             </h2>
 
             <p>
-              I use animation as a third dimension by which to simplify
-              experiences and kuiding thro each and every interaction. I’m not
-              adding motion just to spruce things up, but doing it in ways that.
+              Passionate Software Engineer with extensive experience in
+              microservices development, monolithic architecture migration, and
+              database optimization. Ethereum Certified and proficient in
+              NestJS, Rust and Go.
             </p>
 
             <div className="hero_btn d_flex">
