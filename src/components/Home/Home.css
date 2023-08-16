@@ -64,10 +64,9 @@
   margin-top: 20%;
 }
 .hero .right_img img {
-  position: absolute;
-  top: 0;
-  right: 10%;
-  width: 510px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
 }
 @media (max-width: 768px) {
   .hero .right,
