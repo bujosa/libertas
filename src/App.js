@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './component/Head/Header';
-import Features from './component/Features/Features';
-import Home from './component/Home/Home';
-import Portfolio from './component/Portfolio/Portfolio';
-import Resume from './component/Resume/Resume';
-import Contact from './component/Contact/Contact';
-import Footer from './component/Footer/Footer';
+import Header from './components/Header/Header';
+import Features from './components/Features/Features';
+import Home from './components/Home/Home';
+import Portfolio from './components/Portfolio/Portfolio';
+import Resume from './components/Resume/Resume';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 import './App.css';
 
 const App = () => {

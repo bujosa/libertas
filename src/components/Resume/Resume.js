@@ -32,6 +32,8 @@ const Resume = () => {
                         desc={val.desc}
                       />
                     );
+                  } else {
+                    return null;
                   }
                 })}
               </div>
@@ -43,16 +45,19 @@ const Resume = () => {
               </div>
 
               <div className="content">
-                {data.map((val, index) => {
+                {data.map((val, id) => {
                   if (val.category === 'experience') {
                     return (
                       <Card
-                        key={index}
+                        key={id}
                         title={val.title}
                         year={val.year}
+                        rate={val.rate}
                         desc={val.desc}
                       />
                     );
+                  } else {
+                    return null;
                   }
                 })}
               </div>

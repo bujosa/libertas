@@ -1,5 +1,6 @@
 import React from 'react';
-import './header.css';
+import './Header.css';
+import data from '../../assets/resume.pdf';
 
 const Header = () => {
   window.addEventListener('scroll', function () {
@@ -28,6 +29,11 @@ const Header = () => {
               </li>
               <li>
                 <a href="#contact">contact</a>
+              </li>
+              <li>
+                <a href={data} download>
+                  Download CV
+                </a>
               </li>
             </ul>
           </div>

@@ -1,9 +1,9 @@
 import React from 'react';
 import './Home.css';
-import hero from '../pic/hero.png';
-import skill1 from '../pic/skill1.png';
-import skill2 from '../pic/skill2.png';
-import skill3 from '../pic/skill3.png';
+import hero from '../../assets/hero.png';
+import skill1 from '../../assets/skill1.png';
+import skill2 from '../../assets/skill2.png';
+import skill3 from '../../assets/skill3.png';
 import { Typewriter } from 'react-simple-typewriter';
 
 const Home = () => {

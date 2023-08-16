@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import contact1 from './contact1.png';
+import contact from '../../assets/contact.png';
 import './Contact.css';
 
 const apiKey = process.env.REACT_APP_GETFORM_IO_KEY;
@@ -36,7 +36,7 @@ const Contact = () => {
           <div className="content d_flex">
             <div className="left">
               <div className="box box_shodow">
-                <img src={contact1} alt="" />
+                <img src={contact} alt="" />
 
                 <div className="details">
                   <h1>David Bujosa</h1>

@@ -1,15 +1,15 @@
-import WordDay from '../pic/word_of_day.png';
-import Curbo from '../pic/curbo.png';
-import CurboWeb from '../pic/curbo_web.png';
-import ParkAArchitecture from '../pic/parka_architecture.png';
-import Meridiana from '../pic/meridiana.png';
-import ParkA from '../pic/parka.png';
-import ParkAImage from '../pic/parka_image.png';
-import WordDayIcon from '../pic/word_of_day_icon.jpg';
-import Subscription from '../pic/subscription.png';
-import DistributedSystem from '../pic/distributed_system.png';
-import SmartContract from '../pic/smart_contract.png';
-import EmployeeManagementSystem from '../pic/employee_management_system.png';
+import WordDay from '../../assets/word_of_day.png';
+import Curbo from '../../assets/curbo.png';
+import CurboWeb from '../../assets/curbo_web.png';
+import ParkAArchitecture from '../../assets/parka_architecture.png';
+import Meridiana from '../../assets/meridiana.png';
+import ParkA from '../../assets/parka.png';
+import ParkAImage from '../../assets/parka_image.png';
+import WordDayIcon from '../../assets/word_of_day_icon.jpg';
+import Subscription from '../../assets/subscription.png';
+import DistributedSystem from '../../assets/distributed_system.png';
+import SmartContract from '../../assets/smart_contract.png';
+import EmployeeManagementSystem from '../../assets/employee_management_system.png';
 
 const Portfolio_data = [
   {
