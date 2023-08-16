@@ -40,7 +40,7 @@ const Contact = () => {
 
                 <div className="details">
                   <h1>David Bujosa</h1>
-                  <p>Chief Operating Officer</p>
+                  <p>Software Engineer</p>
                   <p>
                     I am available for freelance work. Connect with me via and
                     call in to my account.
