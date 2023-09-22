@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/libertas/static/css/main.c1079e4f.css",
-    "main.js": "/libertas/static/js/main.a1296cd9.js",
+    "main.js": "/libertas/static/js/main.1e4188a8.js",
     "static/media/fa-solid-900.ttf": "/libertas/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/libertas/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/resume.pdf": "/libertas/static/media/resume.c28646d9c4839c9ddb55.pdf",
@@ -17,10 +17,10 @@
     "static/media/fa-v4compatibility.woff2": "/libertas/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/libertas/index.html",
     "main.c1079e4f.css.map": "/libertas/static/css/main.c1079e4f.css.map",
-    "main.a1296cd9.js.map": "/libertas/static/js/main.a1296cd9.js.map"
+    "main.1e4188a8.js.map": "/libertas/static/js/main.1e4188a8.js.map"
   },
   "entrypoints": [
     "static/css/main.c1079e4f.css",
-    "static/js/main.a1296cd9.js"
+    "static/js/main.1e4188a8.js"
   ]
 }
