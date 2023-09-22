@@ -15,4 +15,4 @@ The page will reload when you make changes.\
 
 ### `npm run deploy`
 
-This section has moved here: [Github Pages oficial page](<[https://facebook.github.io/create-react-app/docs/deployment](https://pages.github.com/)https://pages.github.com/>)
+This section has moved here: [Github Pages oficial page](https://pages.github.com/)
