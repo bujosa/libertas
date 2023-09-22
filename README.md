@@ -13,7 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
-### Deployment `npm run deploy`
+### `npm run deploy`
 
-This section has moved here: [Github Pages oficial page]([https://facebook.github.io/create-react-app/docs/deployment](https://pages.github.com/)https://pages.github.com/)
-
+This section has moved here: [Github Pages oficial page](<[https://facebook.github.io/create-react-app/docs/deployment](https://pages.github.com/)https://pages.github.com/>)
