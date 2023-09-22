@@ -5,7 +5,7 @@ const ResumeApi = [
     year: 'University of Seville (2021 - Present)',
     title: "Master's Degree in Software Engineering",
     desc: "This Master's Degree is focused on the development of software, cloud computing, and mobile applications.",
-    rate: '3.5/4',
+    rate: '9.75/10',
   },
   {
     id: 2,
